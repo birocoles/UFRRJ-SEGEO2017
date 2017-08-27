@@ -9,3 +9,8 @@ Federal Rural do Rio de Janeiro](http://portal.ufrrj.br/).
 ### Resumo
 
 Em breve
+
+
+### Licença
+
+Todo o conteúdo deste repositório está disponibilizado sob a [BSD License](https://github.com/birocoles/UFRRJ-SEGEO2017/blob/master/LICENSE).
