@@ -51,11 +51,11 @@ is located):
 
 To activate the conda environment, run
 
-    source activate ellipsoids
+    source activate SEGEO2017
 
 or, if you're on Windows,
 
-    activate ellipsoids
+    activate SEGEO2017
 
 This will enable the environment for your current terminal session.
 After running the code, deactivate the environment with the following
