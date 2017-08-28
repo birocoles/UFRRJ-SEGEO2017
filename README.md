@@ -11,29 +11,26 @@ Federal Rural do Rio de Janeiro](http://portal.ufrrj.br/).
 Em breve
 
 
-### Reproducing the results
+### Reprodução dos resultados
 
-You can download a copy of all the files in this repository by cloning the
-[git](https://git-scm.com/) repository:
+É possível baixar todos os arquivos por meio da clonagem do seguinte repositório [git](https://git-scm.com/):
 
     git clone https://github.com/birocoles/UFRRJ-SEGEO2017.git
 
 
-All source code used to generate the results and figures in the paper are in
-the `code` folder. The sources for the manuscript text and figures are in `manuscript`.
-See the `README.md` files in each directory for a full description.
+Todos os códigos necessários para gerar os resultados e as figuras da apresentação estão no diretório `code`. Os arquivos da apresentação estão no diretório `presentation`. Veja o arquivo `README.md` de cada diretório para uma descrição mais detalhada.
 
-The calculations and figure generation are all run inside
+Os cálculos e geração de figuras foram feitos utilizando-se
 [Jupyter notebooks](http://jupyter.org/).
-You can view a static (non-executable) version of the notebooks in the
-[nbviewer](https://nbviewer.jupyter.org/) webservice:
+É possível visualizar os notebooks de forma estática (não-executável) no
+[nbviewer](https://nbviewer.jupyter.org/):
 
 http://nbviewer.jupyter.org/github/birocoles/UFRRJ-SEGEO2017
 
-See sections below for instructions on executing the code.
+Abaixo são apresentadas as instruções para executar os códigos.
 
 
-### Setting up your environment
+### Configuração do ambiente (environment)
 
 You'll need a working Python **2.7** environment with all the standard
 scientific packages installed (numpy, scipy, matplotlib, etc).  The easiest
